@@ -1,3 +1,3 @@
-# Placeholder for Lessons
+# Placeholder for lessons and projects from Bro Coding's "C Programming Full Course"
 
-This repository is currently a placeholder for future lessons.
+Link to Youtube video - https://youtu.be/xND0t1pr3KY?si=EYZC3CGsZFkdVDrZ
