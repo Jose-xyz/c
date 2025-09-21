@@ -3,6 +3,6 @@
 Link to Youtube video - https://youtu.be/xND0t1pr3KY?si=EYZC3CGsZFkdVDrZ
 
 
-Completed essons using vscode on Ubuntu WSL.
+Completed lessons using vscode on Ubuntu WSL.
 
 Compiled code using gcc - `gcc codefile.c -o codefile`
