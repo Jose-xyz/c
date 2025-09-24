@@ -18,13 +18,13 @@ int main(){
 
     scanf("%c", &choice);
 
-    if( choice == 'C'){
+    if( choice == 'C' || choice == 'c'){
         printf("Enter the temp in Celcius: ");
         scanf("%f", &celsius);
         fahrenheit = (celsius * 9 /5) + 32; // C to F
         printf("%.1f Celsius is equal to %.1f Fahrenheit\n", celsius, fahrenheit);
     }
-    else if( choice == 'F'){
+    else if( choice == 'F' || choice == 'f'){
         printf("Enter the temp in Fahrenheit: ");
         scanf("%f", &fahrenheit);
         celsius = (fahrenheit -32) * 5 / 9; // F to C
@@ -38,4 +38,5 @@ int main(){
 }
 
 
-// can be improved by add in case insenstivity 
+// can be improved by add in case insenstivity
+// added second option of lower case with (||) or operator;
