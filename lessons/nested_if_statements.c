@@ -11,6 +11,12 @@ int main(){
     // Senior = $8
     // Student + Senior = $7
     
+
+    //if you error using one % sign in the print statement, use %% to escape for %
+    // idk why but in the Bro Code's video he does not get compile errors.
+
+
+
      if (isStudent)
      {
         if (isSenior)
