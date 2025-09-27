@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdbool.h>
+#include <stdbool.h> // needed to use for bools
 
 int main() {
 
