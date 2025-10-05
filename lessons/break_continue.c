@@ -19,11 +19,6 @@ int main(){
 }
 
 
-
-
-
-
-
 /*
 
 break = break out of loop (stop
