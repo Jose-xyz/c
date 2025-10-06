@@ -19,7 +19,7 @@ Link to Youtube video - https://youtu.be/xND0t1pr3KY?si=EYZC3CGsZFkdVDrZ
 
 - I ran into issues where I could not get the Windows set up to work. I am sure it was something simple. 
 
- - I found the setting up to get started way easier on Linux, in this case Ubuntu WSL. I downloaded dev tools like gcc. 
+- I found the setting up to get started way easier on Linux, in this case Ubuntu WSL. I downloaded dev tools like gcc. 
     Then used tilde (~) + ctrl to drop in the terminal window to compile code. 
 
 #### **Why VScode?**
