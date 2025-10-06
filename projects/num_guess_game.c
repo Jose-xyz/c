@@ -21,6 +21,7 @@ int main(){
         scanf("%d", &guess);
         tries++;
 
+
         if (guess < answer)
         {
             printf("Too low\n");
