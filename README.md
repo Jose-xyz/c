@@ -5,7 +5,7 @@ Link to Youtube video - https://youtu.be/xND0t1pr3KY?si=EYZC3CGsZFkdVDrZ
 
 
 #### **Why learn C?**
-
+---
 Learning C because I found that a lot of programming langages I have used borrow from C. I figure if I learn C then any language down the road is going to be easier to learn. 
 I am also interested in OS development.
 
