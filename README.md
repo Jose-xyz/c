@@ -14,7 +14,7 @@ I am also interested in OS development.
 Completed lessons using vscode on Ubuntu WSL.
 
 #### **Why WSL?**
----
+-
 I ran into issues where I could not get the Windows set up to work. I am sure it was something simple. 
 
 I found the setting up to get started way easier on Linux, in this case Ubuntu WSL. I downloaded dev tools like gcc. 
