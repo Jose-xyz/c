@@ -28,11 +28,11 @@ int main(){
 
 
     // nested for loop to print 2d array
-    for (int i = 0; i < 3; i++) // rows  
+    for (int i = 0; i < 4; i++) // rows  
     { 
         for (int j = 0; j < 3; j++) // columns  
         {
-        printf("%d ", numpad[i][j]);
+        printf("%c ", numpad[i][j]);
         }
         printf("\n");
     }
