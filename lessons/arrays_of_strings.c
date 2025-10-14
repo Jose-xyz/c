@@ -8,8 +8,8 @@
 
 int main(){
 
-    char names[4][25] = {0};
-    int rows = sizeof(names) /  sizeof(names[0]);
+    char names[4][25] = {0}; // 4 = # of rows and 25 = columns; in this case we marked 25 characters as our max number of columns
+     int rows = sizeof(names) /  sizeof(names[0]);
 
     for(int i = 0; i < rows; i++){
         printf("Enter a name: ");
