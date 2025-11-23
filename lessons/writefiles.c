@@ -11,7 +11,7 @@ int main() {
 
     // FILE *pFile = fopen("output.txt", "w");
 
-    FILE *pFile = fopen("/home/jose/source/c/lessons/input.txt", "w");
+    FILE *pFile = fopen("/home/jose/source/c/lessons/output.txt", "w"); //file path uses "/" because im using linux
 
     char text[] = "So you wanna be a Master of Pokémon? Do you have the skills to be Number One?";
 
