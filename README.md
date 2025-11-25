@@ -2,6 +2,8 @@
 
 Link to Youtube video - https://youtu.be/xND0t1pr3KY?si=EYZC3CGsZFkdVDrZ
 
+Overall, Bro codes's video course was straight to the point. I enjoyed working from an IDE and compiling while learning.
+You get to see compile errors which create opportunities to debug.
 
 ---
 
@@ -35,3 +37,5 @@ I would also add the AND operator (`&&`) to the end to excute as well like `gcc 
 
 
 ![tumblr_otjmkidZks1us7drco1_400 (1)](https://github.com/user-attachments/assets/abd31e17-2b3a-4888-b326-48d5d618340a)
+
+**Finished on 11/24/2025**
