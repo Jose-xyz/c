@@ -24,7 +24,7 @@ int main()
         pTime = localtime(&rawtime);
         
         printf("\r%02d:%02d:%02d", pTime->tm_hour, pTime->tm_min, pTime->tm_sec); //deference our pointer then get me current hour
-        fflush(stdout);
+        fflush(stdout); // a fix from gemini, force buffer contents to display
         sleep(1);
     }
     
